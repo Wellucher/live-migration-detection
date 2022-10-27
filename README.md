@@ -10,4 +10,6 @@ dataset_0 ————  A small part of the dataset;
 
 readrawdata.py  ————  Code to process raw data to formatted data and record in the dataset;
 
+countfunc.py  ————  Code of auxiliary processing function;
+
 train.py  ————  Code to train ML models.
