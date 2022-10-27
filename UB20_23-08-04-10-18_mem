@@ -1,0 +1,420 @@
+2021-06-22 23:08:04
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.123078 s, 8.7 GB/s
+0.00user 0.05system 0:00.12elapsed 40%CPU (0avgtext+0avgdata 3672maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:05
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.120926 s, 8.9 GB/s
+0.00user 0.07system 0:00.12elapsed 58%CPU (0avgtext+0avgdata 3452maxresident)k
+0inputs+8outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:05
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0686561 s, 15.6 GB/s
+0.00user 0.06system 0:00.06elapsed 100%CPU (0avgtext+0avgdata 3444maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:05
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0541411 s, 19.8 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:06
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0558364 s, 19.2 GB/s
+0.00user 0.05system 0:00.05elapsed 96%CPU (0avgtext+0avgdata 3668maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:06
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0568714 s, 18.9 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3528maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:06
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.058496 s, 18.4 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3452maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:06
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0481352 s, 22.3 GB/s
+0.00user 0.04system 0:00.04elapsed 100%CPU (0avgtext+0avgdata 3604maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:06
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0547017 s, 19.6 GB/s
+0.00user 0.05system 0:00.05elapsed 92%CPU (0avgtext+0avgdata 3444maxresident)k
+0inputs+0outputs (0major+346minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0497453 s, 21.6 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0718324 s, 14.9 GB/s
+0.00user 0.05system 0:00.07elapsed 80%CPU (0avgtext+0avgdata 3612maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0510721 s, 21.0 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0539296 s, 19.9 GB/s
+0.00user 0.05system 0:00.05elapsed 92%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0525775 s, 20.4 GB/s
+0.00user 0.05system 0:00.05elapsed 96%CPU (0avgtext+0avgdata 3448maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:07
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0665375 s, 16.1 GB/s
+0.00user 0.06system 0:00.06elapsed 98%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:08
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0915898 s, 11.7 GB/s
+0.00user 0.05system 0:00.09elapsed 57%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:08
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.147363 s, 7.3 GB/s
+0.00user 0.07system 0:00.14elapsed 49%CPU (0avgtext+0avgdata 3540maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:08
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0909113 s, 11.8 GB/s
+0.00user 0.05system 0:00.09elapsed 54%CPU (0avgtext+0avgdata 3604maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:08
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0899031 s, 11.9 GB/s
+0.00user 0.05system 0:00.09elapsed 56%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:09
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0921045 s, 11.7 GB/s
+0.00user 0.05system 0:00.09elapsed 55%CPU (0avgtext+0avgdata 3460maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:09
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0827625 s, 13.0 GB/s
+0.00user 0.04system 0:00.08elapsed 56%CPU (0avgtext+0avgdata 3452maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:09
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.183143 s, 5.9 GB/s
+0.00user 0.07system 0:00.18elapsed 44%CPU (0avgtext+0avgdata 3672maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:09
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0822539 s, 13.1 GB/s
+0.00user 0.05system 0:00.08elapsed 60%CPU (0avgtext+0avgdata 3452maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:09
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0546593 s, 19.6 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3612maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:10
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.05068 s, 21.2 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3520maxresident)k
+0inputs+0outputs (0major+347minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:10
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0551154 s, 19.5 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3672maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:10
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.049196 s, 21.8 GB/s
+0.00user 0.04system 0:00.04elapsed 100%CPU (0avgtext+0avgdata 3624maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:10
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0784401 s, 13.7 GB/s
+0.00user 0.07system 0:00.07elapsed 92%CPU (0avgtext+0avgdata 3516maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:10
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.339801 s, 3.2 GB/s
+0.00user 0.22system 0:00.34elapsed 65%CPU (0avgtext+0avgdata 3516maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:11
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.161636 s, 6.6 GB/s
+0.00user 0.08system 0:00.16elapsed 54%CPU (0avgtext+0avgdata 3664maxresident)k
+0inputs+8outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:12
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.142113 s, 7.6 GB/s
+0.00user 0.06system 0:00.14elapsed 46%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:12
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0910022 s, 11.8 GB/s
+0.00user 0.06system 0:00.09elapsed 70%CPU (0avgtext+0avgdata 3608maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:13
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.159903 s, 6.7 GB/s
+0.00user 0.07system 0:00.16elapsed 49%CPU (0avgtext+0avgdata 3604maxresident)k
+0inputs+8outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:13
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.202675 s, 5.3 GB/s
+0.00user 0.07system 0:00.20elapsed 39%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:13
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0769007 s, 14.0 GB/s
+0.00user 0.06system 0:00.07elapsed 77%CPU (0avgtext+0avgdata 3676maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:14
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0595658 s, 18.0 GB/s
+0.00user 0.05system 0:00.06elapsed 98%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:14
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.102357 s, 10.5 GB/s
+0.00user 0.06system 0:00.11elapsed 58%CPU (0avgtext+0avgdata 3448maxresident)k
+0inputs+0outputs (0major+346minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:14
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0819103 s, 13.1 GB/s
+0.00user 0.05system 0:00.08elapsed 62%CPU (0avgtext+0avgdata 3604maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:14
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0536036 s, 20.0 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3600maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:15
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0503742 s, 21.3 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3448maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:15
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.12428 s, 8.6 GB/s
+0.00user 0.07system 0:00.12elapsed 58%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:15
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0682179 s, 15.7 GB/s
+0.00user 0.05system 0:00.06elapsed 73%CPU (0avgtext+0avgdata 3672maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:15
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0499693 s, 21.5 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3448maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:16
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0509413 s, 21.1 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3668maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:16
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0562999 s, 19.1 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3460maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:17
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0515919 s, 20.8 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3600maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:18
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0554461 s, 19.4 GB/s
+0.00user 0.04system 0:00.05elapsed 91%CPU (0avgtext+0avgdata 3676maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:19
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0503321 s, 21.3 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3612maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:19
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0498019 s, 21.6 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3528maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:19
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0571927 s, 18.8 GB/s
+0.00user 0.05system 0:00.06elapsed 85%CPU (0avgtext+0avgdata 3596maxresident)k
+0inputs+8outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:19
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.177402 s, 6.1 GB/s
+0.00user 0.09system 0:00.17elapsed 54%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:20
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0847178 s, 12.7 GB/s
+0.00user 0.08system 0:00.08elapsed 100%CPU (0avgtext+0avgdata 3596maxresident)k
+0inputs+0outputs (0major+352minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:20
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0707411 s, 15.2 GB/s
+0.00user 0.05system 0:00.07elapsed 71%CPU (0avgtext+0avgdata 3624maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:20
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0573223 s, 18.7 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3456maxresident)k
+0inputs+0outputs (0major+348minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:20
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0532744 s, 20.2 GB/s
+0.00user 0.05system 0:00.05elapsed 100%CPU (0avgtext+0avgdata 3596maxresident)k
+0inputs+0outputs (0major+347minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:20
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0499598 s, 21.5 GB/s
+0.00user 0.05system 0:00.05elapsed 92%CPU (0avgtext+0avgdata 3528maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:21
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0522043 s, 20.6 GB/s
+0.00user 0.04system 0:00.05elapsed 94%CPU (0avgtext+0avgdata 3524maxresident)k
+0inputs+0outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:21
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.0510366 s, 21.0 GB/s
+0.00user 0.05system 0:00.05elapsed 98%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+0outputs (0major+350minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:21
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.159475 s, 6.7 GB/s
+0.00user 0.07system 0:00.16elapsed 44%CPU (0avgtext+0avgdata 3592maxresident)k
+0inputs+8outputs (0major+349minor)pagefaults 0swaps
+--------------------------
+2021-06-22 23:08:21
+1024+0 records in
+1024+0 records out
+1073741824 bytes (1.1 GB, 1.0 GiB) copied, 0.099591 s, 10.8 GB/s
+0.00user 0.05system 0:00.10elapsed 51%CPU (0avgtext+0avgdata 3528maxresident)k
+0inputs+0outputs (0major+351minor)pagefaults 0swaps
+--------------------------
